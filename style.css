@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    margin: auto;
+    text-align: left;
+    width: 100%;
+    height: 100vh;
+    position: absolute;
+    background-color: #78A083;
+    font-family: sans-serif;
+}
+
+.main-div{
+    position: relative;
+    margin: auto;
+    top: 150px;
+    width: 850px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: #35374B;
+    color: #fff;
+}
+
+.main-div h1{
+    padding: 30px;
+    font-size: 7rem;
+}
